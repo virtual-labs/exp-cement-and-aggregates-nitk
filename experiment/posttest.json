@@ -1,0 +1,46 @@
+[{
+	"question": "Specific Gravity is important in",
+	"answers": {
+		"a": "Mix design",
+		"b": "Deleterious material identification",
+		"c": "Material property change",
+		"d": "All the above"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Stock cements are avoided in concreting especially because of",
+	"answers": {
+		"a": "Moisture activity",
+		"b": "Chemical activity",
+		"c": "Thermal activity",
+		"d": "None of the above"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "The major factor which affect the Specific Gravity is",
+	"answers": {
+		"a": "Pores",
+		"b": "Moisture contents",
+		"c": "Both A and B",
+		"d": "None of these"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "According to standard the Specific Gravity of coarse aggregate should be in between",
+	"answers": {
+		"a": "27-29",
+		"b": "25-28",
+		"c": "315-319",
+		"d": "26-285 "
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Why is kerosene used to determine the Specific Gravity of cement? ",
+	"answers": {
+		"a": "Its Specific Gravity is higher than cement",
+		"b": "It does not react with cement as water does",
+		"c": "Its Specific Gravity is lower than cement",
+		"d": "None of these"
+	},
+	"correctAnswer": "b"
+}]
