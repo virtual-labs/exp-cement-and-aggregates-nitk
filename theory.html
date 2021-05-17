@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta content="" name="description"/>
+    <meta content="" name="author"/>
+    <!-- For iPhone -->
+    <meta name="msapplication-TileColor" content="#4076e0">
+    <!-- Chrome, Firefox OS and Opera -->
+    <meta name="theme-color" content="#4076e0">
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="#4076e0">
+    <title>Virtual Labs</title>
+    <link rel="shortcut icon" href="./assets/images/favicon.ico" />
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css" integrity="sha512-Oy18vBnbSJkXTndr2n6lDMO5NN31UljR8e/ICzVPrGpSud4Gkckb8yUpqhKuUNoE+o9gAb4O/rAxxw1ojyUVzg==" crossorigin="anonymous" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="./assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="./assets/css/github-markdown.min.css" />
+    <link rel="stylesheet" href="./assets/css/vlabs-style.css" />
+    
+    <script src="./assets/js/jquery-3.4.1.slim.min.js"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"
+      integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js"
+      integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj"
+      crossorigin="anonymous"
+    ></script>
+    <style>
+      h1 {
+      font-size: 1.8rem;
+      }
+      h2 {
+      font-size: 1.4rem;
+      }
+      h3 {
+      font-size: 1.2rem;
+      }
+
+      h2, h3 {
+      font-weight: 800;
+      }
+    </style>
+  </head>
+  <body class="p-0 container-fluid vlabs-page d-flex flex-column justify-content-between">
+    <header class="vlabs-header sticky-top bg-white">
+      <nav class="p-0 navbar navbar-light d-flex align-items-stretch">
+        
+        <button class="navbar-toggler px-4"
+        	    type="button" onclick="toggle()">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+    
+        <div class="d-flex justify-content-center">        
+          <a href="http://vlab.co.in" class="navbar-brand">
+            <img src="./assets/images/vlabs-color-small-moe.jpg" alt="vlabs logo">
+          </a>
+        </div>
+        
+        <div id="headerNavbar" class="border-top flex-grow-1 d-flex align-items-center">
+          <ul class="navbar-nav ml-auto text-center d-flex flex-md-row">
+            <li class="nav-item px-2 m-1">
+              <a href="http://vlab.co.in">HOME</a>
+            </li>
+            <li class="nav-item px-2 m-1">
+              <a href="http://vlab.co.in/participating-institutes">PARTNERS</a>
+            </li>
+            <li class="nav-item px-2 m-1">
+              <a href="http://vlab.co.in/contact-us">CONTACT</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+    <div class="container-fluid flex-fill d-flex flex-column vlabs-page-main">
+      <div class="row flex-grow-1 px-4 d-flex flex-nowrap">
+        <div class="nav flex-column sidebar flex-shrink-0" id="menu">
+            <div>
+              <div class="d-flex">
+                <a href="index.html" class="p-2 ">
+                  Aim
+                </a>
+                
+              </div>
+              <div id="t-"
+                
+                   class="collapse" 
+                >
+                <div class="px-1 d-flex flex-column tasks">
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="d-flex">
+                <a href="theory.html" class="p-2  current-item ">
+                  Theory
+                </a>
+                
+              </div>
+              <div id="t-"
+                
+                   class="collapse" 
+                >
+                <div class="px-1 d-flex flex-column tasks">
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="d-flex">
+                <a href="pretest.html" class="p-2 ">
+                  Pretest
+                </a>
+                
+              </div>
+              <div id="t-"
+                
+                   class="collapse" 
+                >
+                <div class="px-1 d-flex flex-column tasks">
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="d-flex">
+                <a href="procedure.html" class="p-2 ">
+                  Procedure
+                </a>
+                
+              </div>
+              <div id="t-"
+                
+                   class="collapse" 
+                >
+                <div class="px-1 d-flex flex-column tasks">
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="d-flex">
+                <a href="simulation.html" class="p-2 ">
+                  Simulation
+                </a>
+                
+              </div>
+              <div id="t-"
+                
+                   class="collapse" 
+                >
+                <div class="px-1 d-flex flex-column tasks">
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="d-flex">
+                <a href="posttest.html" class="p-2 ">
+                  Posttest
+                </a>
+                
+              </div>
+              <div id="t-"
+                
+                   class="collapse" 
+                >
+                <div class="px-1 d-flex flex-column tasks">
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="d-flex">
+                <a href="references.html" class="p-2 ">
+                  References
+                </a>
+                
+              </div>
+              <div id="t-"
+                
+                   class="collapse" 
+                >
+                <div class="px-1 d-flex flex-column tasks">
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="d-flex">
+                <a href="feedback.html" class="p-2 ">
+                  Feedback
+                </a>
+                
+              </div>
+              <div id="t-"
+                
+                   class="collapse" 
+                >
+                <div class="px-1 d-flex flex-column tasks">
+                </div>
+              </div>
+            </div>
+        </div>        <div class="vlabs-page-content px-4 pb-4 flex-grow-1 markdown-body">
+          <div class="text-center">
+            <h2 id="specific-gravity-of-cement-and-aggregates">Specific Gravity of Cement and Aggregates</h2>
+        
+          </div>
+            <h3 id="introduction">INTRODUCTION<br></h3>
+        <h3 id="specific-gravity-of-cement-">Specific Gravity of Cement :</h3>
+        <p style="text-indent:50px; text-align: justify">Specific Gravity is ratio of weight of a volume of a particular material to the weight of the same volume of water at a specified temperature. Every material has solid particles and pores which may contain water in it. Normally nominal mix design is based on the value of Specific Gravity of cement as 3.15. The value will change over time if the cement is exposed to various weather conditions. So it is essential to determine the Specific Gravity of cement before using it. We all know that water cement ratio is an important factor which is directly proportional to workability and the strength of a bonding. If the cement has already more moisture in it then, the value of water cement ratio will actually affect the workability and strength rather than increasing it. If the Specific Gravity of cement is greater than 3.19 then, the cement is either not minced finely as per the industry standard or it has more moisture content which will affect the mix and bonding.</p>
+        
+        <p style="text-indent:50px; text-align: justify">Standard Le-Chatelier flask conforming to the dimensions shown in figure is used to determine Specific Gravity of cement. The samples of the cement shall be taken in accordance with the requirements of IS : 3535-1986 and the relevant standard specification for the type of cement being tested.</p>
+        
+        <center>
+        <img src="images/theorypic-1.png"></img><br><br>
+        Standard Le-Chatelier Flask <br>
+        ( Source: IS 4031 (Part II) - 1988 )
+        </center>
+        
+        <h4 id="relevant-indian-standard-for-specific-gravity-on-cement-">Relevant Indian Standard for Specific Gravity on Cement :</h4>
+        <ol>
+        <li>IS 4031 (Part II) – 1988: Methods of Physical Tests for Hydraulic Cement, Reaffirmed 2002.<br></li>
+        </ol>
+        <h3 id="specific-gravity-of-fine-aggregates-">Specific Gravity of Fine Aggregates :</h3>
+        <p style="text-indent:50px; text-align: justify">The aggregate passing through 4.75mm sieve size is called as fine aggregate. Natural sand is generally used as fine aggregate, silt and clay are also come under this category. IS specifications classify the fine aggregate into four types according to its grading as fine aggregate of grading Zone-1 to grading Zone-4. The four grading zones become progressively finer from grading Zone-1 to grading Zone-4. 90% to 100% of the fine aggregate passes 4.75 mm IS sieve and 0 to 15% passes 150 micron IS sieve depending upon its grading zone. The purpose of using fine aggregate in concrete is to fill the voids in the coarse aggregate and to act as a workability agent.</p>
+        
+        <center>
+        
+        <table>
+        <thead>
+        <tr>
+        <th align="center">Fine aggregate</th>
+        <th align="center">Size variation</th>
+        </tr>
+        </thead>
+        <tbody><tr>
+        <td align="center">Coarse Sand</td>
+        <td align="center">2.0mm - 0.5mm</td>
+        </tr>
+        <tr>
+        <td align="center">Medium sand</td>
+        <td align="center">0.5mm - 0.25mm</td>
+        </tr>
+        <tr>
+        <td align="center">Fine sand</td>
+        <td align="center">0.25mm - 0.06mm</td>
+        </tr>
+        <tr>
+        <td align="center">Silt</td>
+        <td align="center">0.06mm - 0.002mm</td>
+        </tr>
+        <tr>
+        <td align="center">Clay</td>
+        <td align="center">&lt; 0.002</td>
+        </tr>
+        </tbody></table>
+        </center>
+        
+        <p style="text-indent:50px; text-align: justify">The fine aggregate Specific Gravity test is used to calculate the Specific Gravity of a sample by determining the ratio of the weight of a given volume of aggregate to the weight of an equal volume of water. Aggregate Specific Gravity is used in a number of applications including in mix design, deleterious particle identification and separation, and material property change identification etc. Generally the material's weight is typically measured and then converted to a volume based on its Specific Gravity. Correct and accurate material Specific Gravity determinations are vital to proper mix design. An incorrect Specific Gravity value will result in incorrectly calculated volumes and ultimately result in an incorrect mix design. Specific Gravity can also indicate possible material contamination, large amount of deleterious material in an aggregate sample may result in an abnormally low Specific Gravity. Specific Gravity differences can be used to indicate a possible material change. A change in aggregate mineral or physical properties can result in a change in Specific Gravity.</p>
+        
+        <p>Specific Gravity of Fine Aggregate,</p>
+        <center>
+        <img src="http://latex.codecogs.com/png.latex?\fn_jvn&space;\small&space;\mathrm{G&space;=&space;\frac{\left&space;(&space;W_{2}&space;-&space;W_{1}&space;\right&space;)}{\left&space;(W_{2}&space;-&space;W_{1}&space;\right&space;)\left&space;(W_{3}&space;-&space;W_{4}&space;\right&space;)}}" title="\small \mathrm{G = \frac{\left ( W_{2} - W_{1} \right )}{\left (W_{2} - W_{1} \right )\left (W_{3} - W_{4} \right )}}" />
+        </center>
+        
+        <p>Where,</p>
+        <p>W<sub>1</sub>= weight of the empty flask</p>
+        <p>W<sub>2</sub>= weight of the flask + 1/3rd of fine aggregate</p>
+        <p>W<sub>3</sub>=weight of the flask+1/3rd aggregate+ water</p>
+        <p>W<sub>4</sub>= weight of the flask+ water</p>
+        <h4 id="relevant-indian-standard">Relevant Indian Standard:</h4>
+        <ol>
+        <li>IS:2386 (PartIII)-1963: Methods of Test for Aggregates for Concrete.<br></li>
+        </ol>
+        <h3 id="specific-gravity-of-coarse-aggregates-">Specific Gravity of Coarse Aggregates :</h3>
+        <p style="text-indent:50px; text-align: justify">Aggregates are the important constituents in concrete. They give body to the concrete, reduce shrinkage and effect economy. Normally, aggregates come from a stockpile stored outside and thus contain varying amounts of water, depending on recent rainfall, outside temperatures, relative humidity and so forth. However, in the normal mix design procedure, aggregate weights will be based on a saturated surface-dry (SSD) condition or on an oven-dry (OD) condition. Specific gravities of both fine and coarse aggregates may be calculated for either moisture conditions. When the aggregate is sieved through 4.75mm sieve, the aggregate retained is called coarse aggregate. Gravel, cobble and boulders come under this category. In general, 40mm size aggregate used for normal strengths and 20mm size is used for high strength concrete.</p>
+        
+        <center>
+        
+        <table>
+        <thead>
+        <tr>
+        <th align="center">Coarse aggregate</th>
+        <th align="center">Size variation</th>
+        </tr>
+        </thead>
+        <tbody><tr>
+        <td align="center">Fine gravel</td>
+        <td align="center">4mm - 8mm</td>
+        </tr>
+        <tr>
+        <td align="center">Medium gravel</td>
+        <td align="center">8mm - 16mm</td>
+        </tr>
+        <tr>
+        <td align="center">Coarse gravel</td>
+        <td align="center">16mm - 64mm</td>
+        </tr>
+        <tr>
+        <td align="center">Cobbles</td>
+        <td align="center">64mm - 256mm</td>
+        </tr>
+        <tr>
+        <td align="center">Boulders</td>
+        <td align="center">&gt; 256mm</td>
+        </tr>
+        </tbody></table>
+        </center>
+        
+        <p style="text-indent:50px; text-align: justify">Each material added to the concrete mix has a particular weight (excluding air) and a particular solid volume (including air). The relationship between the weight and the solid volume for any material depends on the Specific Gravity of that material. Specific Gravity, which is related to the material’s density, is the weight of the material divided by the weight of an equal volume of water. Each individual particle of aggregate consists of solid matter and pores, and the pores may or may not contain water. Because the aggregate weight will vary depending on the amount of moisture in these pores and on the aggregate particle surface, Specific Gravity will be determined at fixed moisture content. It can be measured by using pycnometer or wire basket method. Finally the ratio of weight of an aggregate to the equal weight of water will give the Specific Gravity of that aggregate.</p>
+        
+        <p>Specific Gravity of Coarse Aggregate,</p>
+        <center>
+        <img src="http://latex.codecogs.com/png.latex?\fn_jvn&space;\small&space;\mathrm{G&space;=&space;\frac{\left&space;(&space;W_{2}&space;-&space;W_{1}&space;\right&space;)}{\left&space;(W_{2}&space;-&space;W_{1}&space;\right&space;)\left&space;(W_{3}&space;-&space;W_{4}&space;\right&space;)}}" title="\small \mathrm{G = \frac{\left ( W_{2} - W_{1} \right )}{\left (W_{2} - W_{1} \right )\left (W_{3} - W_{4} \right )}}" />
+        </center>
+        
+        <p>Where,</p>
+        <p>W<sub>1</sub>= weight of the empty flask</p>
+        <p>W<sub>2</sub>= weight of the flask + 1/3rd of coarse aggregate</p>
+        <p>W<sub>3</sub>=weight of the flask+1/3rd aggregate+ water</p>
+        <p>W<sub>4</sub>= weight of the flask+ water</p>
+        <center>
+        
+        <p><img src="images/coarseflask.PNG"></img><br>
+        Section of Pyconometer<br>
+        ( Source: IS 2386 (Part III) - 1963 )</p>
+        </center>
+        
+        <h4 id="relevant-indian-standard-">Relevant Indian Standard :</h4>
+        <ol>
+        <li>IS 2386 (Part III) -1963: Methods of Test for Aggregates for Concrete, Reaffirmed 2002. <br></li>
+        </ol>
+        
+        </div>
+      </div>
+    </div>
+    <footer class="text-light pt-2 vlabs-footer d-flex flex-column">
+      <div class="row px-5">
+        <div class="col d-flex flex-column">
+          <span class="font-weight-bold vlabs-footer-sect-name pb-2 mb-3">Community Links</span>
+          <a href="http://www.sakshat.ac.in/" class="text-light">Sakshat Portal</a>
+          <a href="http://outreach.vlabs.ac.in/" class="text-light">Outreach Portal</a>
+          <a href="http://vlab.co.in/faq" class="text-light">FAQ: Virtual Labs</a>
+        </div>
+        <div class="col d-flex flex-column">
+          <span class="font-weight-bold vlabs-footer-sect-name pb-2 mb-3">Contact Us</span>
+          <span> Phone: General Information: 011-26582050 </span>
+          <span> Email: support@vlabs.ac.in </span>
+        </div>
+        <div class="col d-flex flex-column">
+          <span class="font-weight-bold vlabs-footer-sect-name pb-2 mb-3">Follow Us</span>
+          <div class="social-links">
+    	<a class="p-2 mt-1 mr-2 d-inline-flex justify-content-center align-items-center" style="background: #55acee;" href="https://twitter.com/TheVirtualLabs">
+    	  <i class="fa fa-twitter"></i>
+    	</a>
+    	<a class="p-2 mt-1 mr-2 d-inline-flex justify-content-center align-items-center" style="background: #3b5998;" href="https://www.facebook.com/Virtual-Labs-IIT-Delhi-301510159983871/">
+    	  <i class="fa fa-facebook"></i>
+    	</a>
+    	<a class="p-2 mt-1 mr-2 d-inline-flex justify-content-center align-items-center" style="background: #e52d27;" href="https://www.youtube.com/watch?v=asxRaOgk6a0">
+    	  <i class="fa fa-youtube"></i>
+    	</a>
+    	<a class="p-2 mt-1 mr-2 d-inline-flex justify-content-center align-items-center" style="background: #2867B2;" href="https://in.linkedin.com/in/virtual-labs-008ba9136">
+    	  <i class="fa fa-linkedin"></i>
+    	</a>
+          </div>
+        </div>
+      </div>
+      <div class="m-0 py-2 text-center" style='font-family: "Open Sans", sans-serif; background: #212121;'>
+        <a class="text-primary font-weight-bold" href="https://www.gnu.org/licenses/agpl-3.0.en.html"> AGPL 3.0 </a>
+        &nbsp;&amp;&nbsp;
+        <a class="text-primary font-weight-bold" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"> Creative Commons (CC BY-NC-SA 4.0) </a>
+      </div>
+    </footer>
+
+      <script src="./assets/js/toggleSidebar.js"></script>
+      
+  </body>
+</html>
