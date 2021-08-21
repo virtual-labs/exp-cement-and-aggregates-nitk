@@ -2,14 +2,16 @@
 
 ### Specific Gravity of Cement :
 
-<p style="text-indent:50px; text-align: justify">Specific Gravity is ratio of weight of a volume of a particular material to the weight of the same volume of water at a specified temperature. Every material has solid particles and pores which may contain water in it. Normally nominal mix design is based on the value of Specific Gravity of cement as 3.15. The value will change over time if the cement is exposed to various weather conditions. So it is essential to determine the Specific Gravity of cement before using it. We all know that water cement ratio is an important factor which is directly proportional to workability and the strength of a bonding. If the cement has already more moisture in it then, the value of water cement ratio will actually affect the workability and strength rather than increasing it. If the Specific Gravity of cement is greater than 3.19 then, the cement is either not minced finely as per the industry standard or it has more moisture content which will affect the mix and bonding.</p>
+<p style="text-indent:50px; text-align: justify">Specific Gravity is ratio of weight of a volume of a particular material to the weight of the same volume of water at a specified temperature. Every material has solid particles and pores which may contain water in it. Normally nominal mix design is based on the value of Specific Gravity of cement as 3.15. The value will change over time if the cement is exposed to various weather conditions. So it is essential to determine the Specific Gravity of Cement before using it. We all know that water cement ratio is an important factor which is directly proportional to workability and the strength of a bonding. If the cement has already more moisture in it then, the value of water cement ratio will actually affect the workability and strength rather than increasing it. If the Specific Gravity of cement is greater than 3.19 then, the cement is either not minced finely as per the industry standard or it has more moisture content which will affect the mix and bonding.</p>
+
+<p style="text-indent:50px; text-align: justify">Kerosene is the reference material for determining the specific gravity of cement. The reason for the use of kerosene as the reference material is that, unlike water, kerosene does not undergo any reaction when added to cement (when water is added to cement, hydration occurs). Kerosene has a specific gravity of 0.79 g/cc.</p>
 
 <p style="text-indent:50px; text-align: justify">Standard Le-Chatelier flask conforming to the dimensions shown in figure is used to determine Specific Gravity of cement. The samples of the cement shall be taken in accordance with the requirements of IS : 3535-1986 and the relevant standard specification for the type of cement being tested.</p>
 
 <center>
 <img src="images/theorypic-1.png"></img><br><br>
 Standard Le-Chatelier Flask <br>
-( Source: IS 4031 (Part II) - 1988 )
+( Source: <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiMyK-KlYryAhWRbn0KHQwvAyUQFjAAegQIBRAD&url=https%3A%2F%2Flaw.resource.org%2Fpub%2Fin%2Fbis%2FS03%2Fis.4031.2.1999.pdf&usg=AOvVaw3XRG0zTdnkHY-MRH1otBLr">IS 4031 (Part II) - 1999 </a>)
 </center>
 
 #### Relevant Indian Standard for Specific Gravity on Cement :
@@ -29,6 +31,7 @@ Fine sand |	0.25mm - 0.06mm
 Silt |	0.06mm - 0.002mm
 Clay |	< 0.002
 
+( Source: <a href="../experiment/images/pdf/is.2386.3.1963.pdf">IS 2386 (Part III) - 1963 </a>)
 </center>
 
 <p style="text-indent:50px; text-align: justify">The fine aggregate Specific Gravity test is used to calculate the Specific Gravity of a sample by determining the ratio of the weight of a given volume of aggregate to the weight of an equal volume of water. Aggregate Specific Gravity is used in a number of applications including in mix design, deleterious particle identification and separation, and material property change identification etc. Generally the material's weight is typically measured and then converted to a volume based on its Specific Gravity. Correct and accurate material Specific Gravity determinations are vital to proper mix design. An incorrect Specific Gravity value will result in incorrectly calculated volumes and ultimately result in an incorrect mix design. Specific Gravity can also indicate possible material contamination, large amount of deleterious material in an aggregate sample may result in an abnormally low Specific Gravity. Specific Gravity differences can be used to indicate a possible material change. A change in aggregate mineral or physical properties can result in a change in Specific Gravity.</p>
@@ -40,13 +43,13 @@ Specific Gravity of Fine Aggregate,
 
 Where,
 
-W<sub>1</sub>= weight of the empty flask
+W<sub>1</sub> = Weight of the empty flask
 
-W<sub>2</sub>= weight of the flask + 1/3rd of fine aggregate
+W<sub>2</sub> = Weight of the flask + fine aggregate
 
-W<sub>3</sub>=weight of the flask+1/3rd aggregate+ water
+W<sub>3</sub> = Weight of the flask + fine aggregate + water
 
-W<sub>4</sub>= weight of the flask+ water
+W<sub>4</sub> = Weight of the flask + water
 
 #### Relevant Indian Standard:
 1. IS:2386 (PartIII)-1963: Methods of Test for Aggregates for Concrete.<br>
@@ -65,6 +68,7 @@ Coarse gravel |	16mm - 64mm
 Cobbles |	64mm - 256mm
 Boulders |	> 256mm
 
+( Source: <a href="../experiment/images/pdf/is.2386.3.1963.pdf">IS 2386 (Part III) - 1963 </a>)
 </center>
 
 <p style="text-indent:50px; text-align: justify">Each material added to the concrete mix has a particular weight (excluding air) and a particular solid volume (including air). The relationship between the weight and the solid volume for any material depends on the Specific Gravity of that material. Specific Gravity, which is related to the material’s density, is the weight of the material divided by the weight of an equal volume of water. Each individual particle of aggregate consists of solid matter and pores, and the pores may or may not contain water. Because the aggregate weight will vary depending on the amount of moisture in these pores and on the aggregate particle surface, Specific Gravity will be determined at fixed moisture content. It can be measured by using pycnometer or wire basket method. Finally the ratio of weight of an aggregate to the equal weight of water will give the Specific Gravity of that aggregate.</p>
@@ -76,19 +80,19 @@ Specific Gravity of Coarse Aggregate,
 
 Where,
 
-W<sub>1</sub>= weight of the empty flask
+W<sub>1</sub> = Weight of the empty flask
 
-W<sub>2</sub>= weight of the flask + 1/3rd of coarse aggregate
+W<sub>2</sub> = Weight of the flask + coarse aggregate
 
-W<sub>3</sub>=weight of the flask+1/3rd aggregate+ water
+W<sub>3</sub> = Weight of the flask + coarse aggregate + water
 
-W<sub>4</sub>= weight of the flask+ water
+W<sub>4</sub> = Weight of the flask + water
 
 <center>
 
 <img src="images/coarseflask.PNG"></img><br>
 Section of Pyconometer<br>
-( Source: IS 2386 (Part III) - 1963 )
+( Source: <a href="../experiment/images/pdf/is.2386.3.1963.pdf">IS 2386 (Part III) - 1963 </a>)
 </center>
 
 #### Relevant Indian Standard :
