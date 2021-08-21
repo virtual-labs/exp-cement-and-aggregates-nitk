@@ -15,7 +15,7 @@
 		"c": "Object 3: m = 3g and v = 1ml",
 		"d": "Object 4: m = 4g and v = 3ml"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "b"
 }, {
 	"question": "Presence of large number of deleterious materials on aggregate results in high Specific Gravity value. ",
 	"answers": {
@@ -31,7 +31,7 @@
 		"c": "Both A and B",
 		"d": "None of these"
 	},
-	"correctAnswer": "d"
+	"correctAnswer": "c"
 }, {
 	"question": "According to the IS Code, Zone IV aggregate is finer than Zone I aggregate.",
 	"answers": {
