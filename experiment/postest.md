@@ -19,10 +19,10 @@ b. Moisture contents<br>
 d. None of these<br>
 
 Q 4. According to standard the Specific Gravity of coarse aggregate should be in between <br>
-a. 27-29<br>
-<b>b. 25-28</b><br>
-c. 315-319<br>
-d. 26-285 <br>
+a. 2.7-2.9<br>
+<b>b. 2.5-2.8</b><br>
+c. 3.15-3.19<br>
+d. 2.6-2.85 <br>
 
 Q 5. Why is kerosene used to determine the Specific Gravity of cement?  <br>
 a. Its Specific Gravity is higher than cement<br>

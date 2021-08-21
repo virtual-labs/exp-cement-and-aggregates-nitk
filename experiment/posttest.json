@@ -28,10 +28,10 @@
 }, {
 	"question": "According to standard the Specific Gravity of coarse aggregate should be in between",
 	"answers": {
-		"a": "27-29",
-		"b": "25-28",
-		"c": "315-319",
-		"d": "26-285 "
+		"a": "2.7-2.9",
+		"b": "2.5-2.8",
+		"c": "3.15-3.19",
+		"d": "2.6-2.85 "
 	},
 	"correctAnswer": "b"
 }, {

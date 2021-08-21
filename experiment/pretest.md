@@ -9,8 +9,8 @@ b. Workability agent <br>
 d. Provide strength<br><br>
 
 Q 2. Which of the following will float in water? The density of water is 1g/ml <br>
-<b>a. Object 1: m = 5g and v = 2ml</b><br>
-b. Object 2: m = 3g and v = 4ml<br>
+a. Object 1: m = 5g and v = 2ml<br>
+<b>b. Object 2: m = 3g and v = 4ml</b><br>
 c. Object 3: m = 3g and v = 1ml<br>
 d. Object 4: m = 4g and v = 3ml<br>
 
@@ -21,8 +21,8 @@ a. True<br>
 Q 4. The Specific Gravity of cement is greater than 3.19, it indicates that <br>
 a. It has more moisture content<br>
 b. The cement is not minced finely as per the industry standard<br>
-c. Both A and B<br>
-<b>d. None of these</b><br>
+<b>c. Both A and B</b><br>
+d. None of these<br>
 
 Q 5. According to the IS Code, Zone IV aggregate is finer than Zone I aggregate. <br>
 a. No<br>
