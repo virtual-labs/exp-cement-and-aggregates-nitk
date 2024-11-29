@@ -38,7 +38,7 @@ Clay |	< 0.002
 
 Specific Gravity of Fine Aggregate,
 <center>
-<img src="http://latex.codecogs.com/png.latex?\fn_jvn&space;\small&space;\mathrm{G&space;=&space;\frac{\left&space;(&space;W_{2}&space;-&space;W_{1}&space;\right&space;)}{\left&space;(W_{2}&space;-&space;W_{1}&space;\right&space;)\left&space;(W_{3}&space;-&space;W_{4}&space;\right&space;)}}" title="\small \mathrm{G = \frac{\left ( W_{2} - W_{1} \right )}{\left (W_{2} - W_{1} \right )\left (W_{3} - W_{4} \right )}}" />
+<img src="http://latex.codecogs.com/png.latex?\fn_jvn&space;\small&space;\mathrm{G&space;=&space;\frac{\left&space;(&space;W_{2}&space;-&space;W_{1}&space;\right&space;)}{\left&space;(W_{2}&space;-&space;W_{1}&space;\right&space;)\left&space;(W_{3}&space;-&space;W_{4}&space;\right&space;)}}" title="\small \mathrm{G = \frac{\left ( W_{2} - W_{1} \right )}-{\left (W_{2} - W_{1} \right )\left (W_{3} - W_{4} \right )}}" />
 </center>
 
 Where,
