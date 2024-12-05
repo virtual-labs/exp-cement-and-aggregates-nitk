@@ -1,0 +1,620 @@
+
+/home/runner/work/exp-cement-and-aggregates-nitk/exp-cement-and-aggregates-nitk/experiment/simulation/cement/js/jquerymin.js
+  2:71     warning  'module' is not defined                                                    no-undef
+  2:86     warning  'module' is not defined                                                    no-undef
+  2:863    warning  'b' is assigned a value but never used                                     no-unused-vars
+  2:3050   warning  'r' is assigned a value but never used                                     no-unused-vars
+  2:5376   warning  Unexpected control character(s) in regular expression: \x1f, \x1f          no-control-regex
+  2:5847   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6101   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6532   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6758   warning  Empty block statement                                                      no-empty
+  2:7320   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:9378   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:9688   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11489  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12064  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12102  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12520  warning  Empty block statement                                                      no-empty
+  2:13134  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:13446  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15271  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15542  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15740  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:16114  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:16815  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19155  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19255  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19315  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20674  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:21288  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:21399  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:23719  warning  Unnecessary escape character: \/                                           no-useless-escape
+  2:33344  warning  Empty block statement                                                      no-empty
+  2:37050  warning  Unnecessary escape character: \/                                           no-useless-escape
+  2:38265  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:38405  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:39039  warning  Empty block statement                                                      no-empty
+  2:45778  warning  Unnecessary escape character: \/                                           no-useless-escape
+  2:48087  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:49647  warning  Empty block statement                                                      no-empty
+  2:57298  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:59847  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:64132  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:65877  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:65943  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:66247  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:66313  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:66720  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:66997  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:72432  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:74924  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:75645  warning  'l.href' is assigned to itself                                             no-self-assign
+  2:79204  warning  Empty block statement                                                      no-empty
+  2:83243  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:83243  warning  'l' is assigned a value but never used                                     no-unused-vars
+  2:86651  warning  'define' is not defined                                                    no-undef
+  2:86663  warning  'define' is not defined                                                    no-undef
+
+/home/runner/work/exp-cement-and-aggregates-nitk/exp-cement-and-aggregates-nitk/experiment/simulation/cement/js/sgca.js
+    3:5   warning  'mpointer' is assigned a value but never used  no-unused-vars
+    5:5   warning  'a' is defined but never used                  no-unused-vars
+    5:17  warning  'b' is defined but never used                  no-unused-vars
+    5:19  warning  'q' is defined but never used                  no-unused-vars
+   15:10  warning  'navNext' is defined but never used            no-unused-vars
+   17:8   warning  'temp' is not defined                          no-undef
+   17:18  warning  'temp' is not defined                          no-undef
+   17:30  warning  'temp' is not defined                          no-undef
+   19:40  warning  'temp' is not defined                          no-undef
+   22:2   warning  'simsubscreennum' is not defined               no-undef
+   23:36  warning  'simsubscreennum' is not defined               no-undef
+   36:3   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+   37:3   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+   38:3   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+   39:3   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+   42:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+   42:3   warning  '$' is not defined                             no-undef
+   46:2   warning  'el' is not defined                            no-undef
+   47:2   warning  'el' is not defined                            no-undef
+   48:2   warning  'el' is not defined                            no-undef
+   49:2   warning  'answer' is not defined                        no-undef
+   49:21  warning  'el' is not defined                            no-undef
+   51:6   warning  'j' is not defined                             no-undef
+   51:10  warning  'j' is not defined                             no-undef
+   51:32  warning  'j' is not defined                             no-undef
+   53:3   warning  'opt' is not defined                           no-undef
+   53:22  warning  'j' is not defined                             no-undef
+   55:3   warning  'el' is not defined                            no-undef
+   56:3   warning  'el' is not defined                            no-undef
+   56:20  warning  'opt' is not defined                           no-undef
+   57:3   warning  'el' is not defined                            no-undef
+   57:14  warning  'opt' is not defined                           no-undef
+   58:3   warning  'answer' is not defined                        no-undef
+   58:22  warning  'el' is not defined                            no-undef
+   59:3   warning  '$' is not defined                             no-undef
+   61:7   warning  '$' is not defined                             no-undef
+   92:15  warning  'myInt' is not defined                         no-undef
+  101:6   warning  'simsubscreennum' is not defined               no-undef
+  105:3   warning  'myInt' is not defined                         no-undef
+  120:11  warning  'simsubscreennum' is not defined               no-undef
+  136:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  137:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  138:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  139:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  141:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  142:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  143:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  144:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  146:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  149:3   warning  'myInt' is not defined                         no-undef
+  171:3   warning  'myInt' is not defined                         no-undef
+  186:11  warning  'simsubscreennum' is not defined               no-undef
+  190:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  191:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  192:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  193:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  194:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  195:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  196:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  197:5   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  197:8   warning  'myInt' is not defined                         no-undef
+  198:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  200:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  209:11  warning  'simsubscreennum' is not defined               no-undef
+  216:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  218:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  220:3   warning  'myInt' is not defined                         no-undef
+  232:11  warning  'simsubscreennum' is not defined               no-undef
+  237:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  239:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  242:3   warning  'myInt' is not defined                         no-undef
+  255:11  warning  'simsubscreennum' is not defined               no-undef
+  259:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  260:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  275:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  277:3   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  278:3   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  278:5   warning  'simsubscreennum' is not defined               no-undef
+  281:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  282:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  284:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  285:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  286:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  287:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  288:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  290:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  291:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  293:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  295:11  warning  'simsubscreennum' is not defined               no-undef
+  365:2   warning  'myInt' is not defined                         no-undef
+  386:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  398:3   warning  'myInt' is not defined                         no-undef
+  406:3   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  421:5   warning  'myInt' is not defined                         no-undef
+  451:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  452:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  453:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  454:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  455:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  456:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  459:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  473:2   warning  'myInt' is not defined                         no-undef
+  498:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  499:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  500:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  508:3   warning  'myInt' is not defined                         no-undef
+  524:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  525:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  526:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  529:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  529:4   warning  'myInt' is not defined                         no-undef
+  586:2   warning  'myInt' is not defined                         no-undef
+  606:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  607:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  608:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  609:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  610:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  618:3   warning  'myInt' is not defined                         no-undef
+  626:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  639:3   warning  'myInt' is not defined                         no-undef
+  685:2   warning  'myInt' is not defined                         no-undef
+  708:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  716:3   warning  'myInt' is not defined                         no-undef
+  724:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  732:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  733:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  734:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  736:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  737:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  737:4   warning  'myInt' is not defined                         no-undef
+  783:2   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  811:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  812:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  813:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  814:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  815:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  816:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  817:1   warning  Mixed spaces and tabs                          no-mixed-spaces-and-tabs
+  900:4   warning  'n2' is not defined                            no-undef
+  902:18  warning  'n2' is not defined                            no-undef
+  933:10  warning  'checkInference' is defined but never used     no-unused-vars
+  936:5   warning  '$' is not defined                             no-undef
+  956:3   warning  '$' is not defined                             no-undef
+
+/home/runner/work/exp-cement-and-aggregates-nitk/exp-cement-and-aggregates-nitk/experiment/simulation/coarseaggregate/js/jquerymin.js
+  2:71     warning  'module' is not defined                                                    no-undef
+  2:86     warning  'module' is not defined                                                    no-undef
+  2:863    warning  'b' is assigned a value but never used                                     no-unused-vars
+  2:3050   warning  'r' is assigned a value but never used                                     no-unused-vars
+  2:5376   warning  Unexpected control character(s) in regular expression: \x1f, \x1f          no-control-regex
+  2:5847   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6101   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6532   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6758   warning  Empty block statement                                                      no-empty
+  2:7320   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:9378   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:9688   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11489  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12064  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12102  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12520  warning  Empty block statement                                                      no-empty
+  2:13134  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:13446  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15271  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15542  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15740  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:16114  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:16815  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19155  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19255  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19315  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20674  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:21288  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:21399  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:23719  warning  Unnecessary escape character: \/                                           no-useless-escape
+  2:33344  warning  Empty block statement                                                      no-empty
+  2:37050  warning  Unnecessary escape character: \/                                           no-useless-escape
+  2:38265  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:38405  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:39039  warning  Empty block statement                                                      no-empty
+  2:45778  warning  Unnecessary escape character: \/                                           no-useless-escape
+  2:48087  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:49647  warning  Empty block statement                                                      no-empty
+  2:57298  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:59847  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:64132  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:65877  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:65943  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:66247  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:66313  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:66720  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:66997  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:72432  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:74924  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:75645  warning  'l.href' is assigned to itself                                             no-self-assign
+  2:79204  warning  Empty block statement                                                      no-empty
+  2:83243  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:83243  warning  'l' is assigned a value but never used                                     no-unused-vars
+  2:86651  warning  'define' is not defined                                                    no-undef
+  2:86663  warning  'define' is not defined                                                    no-undef
+
+/home/runner/work/exp-cement-and-aggregates-nitk/exp-cement-and-aggregates-nitk/experiment/simulation/coarseaggregate/js/sgca.js
+    4:5   warning  'flag' is assigned a value but never used   no-unused-vars
+    5:5   warning  'sub' is assigned a value but never used    no-unused-vars
+    6:10  warning  'a' is defined but never used               no-unused-vars
+    6:12  warning  'b' is defined but never used               no-unused-vars
+    6:14  warning  'c' is defined but never used               no-unused-vars
+   15:10  warning  'navNext' is defined but never used         no-unused-vars
+   18:6   warning  'temp' is not defined                       no-undef
+   18:16  warning  'temp' is not defined                       no-undef
+   18:28  warning  'temp' is not defined                       no-undef
+   20:34  warning  'temp' is not defined                       no-undef
+   23:1   warning  'simsubscreennum' is not defined            no-undef
+   24:35  warning  'simsubscreennum' is not defined            no-undef
+   35:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   36:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   37:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   40:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   40:3   warning  '$' is not defined                          no-undef
+   44:2   warning  'el' is not defined                         no-undef
+   45:2   warning  'el' is not defined                         no-undef
+   46:2   warning  'el' is not defined                         no-undef
+   47:2   warning  'answer' is not defined                     no-undef
+   47:21  warning  'el' is not defined                         no-undef
+   49:6   warning  'j' is not defined                          no-undef
+   49:10  warning  'j' is not defined                          no-undef
+   49:32  warning  'j' is not defined                          no-undef
+   51:3   warning  'opt' is not defined                        no-undef
+   51:22  warning  'j' is not defined                          no-undef
+   53:3   warning  'el' is not defined                         no-undef
+   54:3   warning  'el' is not defined                         no-undef
+   54:20  warning  'opt' is not defined                        no-undef
+   55:3   warning  'el' is not defined                         no-undef
+   55:14  warning  'opt' is not defined                        no-undef
+   56:3   warning  'answer' is not defined                     no-undef
+   56:22  warning  'el' is not defined                         no-undef
+   57:3   warning  '$' is not defined                          no-undef
+   59:7   warning  '$' is not defined                          no-undef
+   90:15  warning  'myInt' is not defined                      no-undef
+  100:6   warning  'simsubscreennum' is not defined            no-undef
+  106:3   warning  'myInt' is not defined                      no-undef
+  120:10  warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  122:11  warning  'simsubscreennum' is not defined            no-undef
+  144:4   warning  'myInt' is not defined                      no-undef
+  171:4   warning  'myInt' is not defined                      no-undef
+  184:11  warning  'simsubscreennum' is not defined            no-undef
+  199:3   warning  'myInt' is not defined                      no-undef
+  209:11  warning  'simsubscreennum' is not defined            no-undef
+  226:3   warning  'myInt' is not defined                      no-undef
+  236:11  warning  'simsubscreennum' is not defined            no-undef
+  256:4   warning  'simsubscreennum' is not defined            no-undef
+  259:11  warning  'simsubscreennum' is not defined            no-undef
+  313:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  327:2   warning  'myInt' is not defined                      no-undef
+  349:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  350:2   warning  'myInt' is not defined                      no-undef
+  372:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  373:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  381:2   warning  'myInt' is not defined                      no-undef
+  397:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  398:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  399:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  401:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  401:6   warning  'myInt' is not defined                      no-undef
+  413:12  warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  417:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  418:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  419:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  420:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  423:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  423:3   warning  'myInt' is not defined                      no-undef
+  463:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  464:2   warning  'myInt' is not defined                      no-undef
+  487:2   warning  'myInt' is not defined                      no-undef
+  508:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  520:2   warning  'myInt' is not defined                      no-undef
+  539:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  539:5   warning  'myInt' is not defined                      no-undef
+  560:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  560:3   warning  'myInt' is not defined                      no-undef
+  597:2   warning  'myInt' is not defined                      no-undef
+  619:2   warning  'myInt' is not defined                      no-undef
+  642:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  643:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  644:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  647:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  648:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  650:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  657:2   warning  'myInt' is not defined                      no-undef
+  672:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  673:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  676:3   warning  'myInt' is not defined                      no-undef
+  684:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  697:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  697:3   warning  'myInt' is not defined                      no-undef
+  712:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  721:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  722:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  726:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  727:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  728:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  729:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  730:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  731:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  732:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  734:2   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  772:1   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  857:4   warning  'n2' is not defined                         no-undef
+  859:18  warning  'n2' is not defined                         no-undef
+  891:10  warning  'checkInference' is defined but never used  no-unused-vars
+  894:5   warning  '$' is not defined                          no-undef
+  914:3   warning  '$' is not defined                          no-undef
+
+/home/runner/work/exp-cement-and-aggregates-nitk/exp-cement-and-aggregates-nitk/experiment/simulation/fineaggregate/js/jquerymin.js
+  2:71     warning  'module' is not defined                                                    no-undef
+  2:86     warning  'module' is not defined                                                    no-undef
+  2:863    warning  'b' is assigned a value but never used                                     no-unused-vars
+  2:3050   warning  'r' is assigned a value but never used                                     no-unused-vars
+  2:5376   warning  Unexpected control character(s) in regular expression: \x1f, \x1f          no-control-regex
+  2:5847   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6101   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6532   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6758   warning  Empty block statement                                                      no-empty
+  2:7320   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:9378   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:9688   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11489  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12064  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12102  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12520  warning  Empty block statement                                                      no-empty
+  2:13134  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:13446  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15271  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15542  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15740  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:16114  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:16815  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19155  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19255  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:19315  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20674  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:21288  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:21399  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:23719  warning  Unnecessary escape character: \/                                           no-useless-escape
+  2:33344  warning  Empty block statement                                                      no-empty
+  2:37050  warning  Unnecessary escape character: \/                                           no-useless-escape
+  2:38265  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:38405  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:39039  warning  Empty block statement                                                      no-empty
+  2:45778  warning  Unnecessary escape character: \/                                           no-useless-escape
+  2:48087  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:49647  warning  Empty block statement                                                      no-empty
+  2:57298  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:59847  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:64132  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:65877  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:65943  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:66247  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:66313  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:66720  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:66997  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:72432  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:74924  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:75645  warning  'l.href' is assigned to itself                                             no-self-assign
+  2:79204  warning  Empty block statement                                                      no-empty
+  2:83243  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:83243  warning  'l' is assigned a value but never used                                     no-unused-vars
+  2:86651  warning  'define' is not defined                                                    no-undef
+  2:86663  warning  'define' is not defined                                                    no-undef
+
+/home/runner/work/exp-cement-and-aggregates-nitk/exp-cement-and-aggregates-nitk/experiment/simulation/fineaggregate/js/sgca.js
+     5:5    warning  'sub' is assigned a value but never used    no-unused-vars
+     6:9    warning  'a' is defined but never used               no-unused-vars
+     6:11   warning  'b' is defined but never used               no-unused-vars
+     6:13   warning  'c' is defined but never used               no-unused-vars
+    20:10   warning  'navNext' is defined but never used         no-unused-vars
+    23:6    warning  'temp' is not defined                       no-undef
+    23:16   warning  'temp' is not defined                       no-undef
+    23:28   warning  'temp' is not defined                       no-undef
+    25:34   warning  'temp' is not defined                       no-undef
+    28:1    warning  'simsubscreennum' is not defined            no-undef
+    29:35   warning  'simsubscreennum' is not defined            no-undef
+    40:3    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+    41:3    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+    42:3    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+    45:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+    45:3    warning  '$' is not defined                          no-undef
+    49:2    warning  'el' is not defined                         no-undef
+    50:2    warning  'el' is not defined                         no-undef
+    51:2    warning  'el' is not defined                         no-undef
+    52:2    warning  'answer' is not defined                     no-undef
+    52:21   warning  'el' is not defined                         no-undef
+    54:6    warning  'j' is not defined                          no-undef
+    54:10   warning  'j' is not defined                          no-undef
+    54:32   warning  'j' is not defined                          no-undef
+    56:3    warning  'opt' is not defined                        no-undef
+    56:22   warning  'j' is not defined                          no-undef
+    58:3    warning  'el' is not defined                         no-undef
+    59:3    warning  'el' is not defined                         no-undef
+    59:20   warning  'opt' is not defined                        no-undef
+    60:3    warning  'el' is not defined                         no-undef
+    60:14   warning  'opt' is not defined                        no-undef
+    61:3    warning  'answer' is not defined                     no-undef
+    61:22   warning  'el' is not defined                         no-undef
+    62:3    warning  '$' is not defined                          no-undef
+    64:7    warning  '$' is not defined                          no-undef
+    95:15   warning  'myInt' is not defined                      no-undef
+   104:5    warning  'simsubscreennum' is not defined            no-undef
+   107:6    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   108:6    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   113:3    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   114:3    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   116:3    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   117:3    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   118:3    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   126:10   warning  'simsubscreennum' is not defined            no-undef
+   135:3    warning  'myInt' is not defined                      no-undef
+   150:10   warning  'simsubscreennum' is not defined            no-undef
+   170:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   171:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   172:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   172:7    warning  'myInt' is not defined                      no-undef
+   173:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   174:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   175:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   176:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   177:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   178:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   179:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   197:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   198:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   200:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   200:7    warning  'myInt' is not defined                      no-undef
+   201:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   203:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   204:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   205:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   206:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   207:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   211:10   warning  'simsubscreennum' is not defined            no-undef
+   231:3    warning  'myInt' is not defined                      no-undef
+   241:11   warning  'simsubscreennum' is not defined            no-undef
+   259:3    warning  'myInt' is not defined                      no-undef
+   268:11   warning  'simsubscreennum' is not defined            no-undef
+   301:4    warning  'simsubscreennum' is not defined            no-undef
+   304:5    warning  'simsubscreennum' is not defined            no-undef
+   320:4    warning  'average' is not defined                    no-undef
+   326:4    warning  'average' is not defined                    no-undef
+   336:5    warning  'avg' is not defined                        no-undef
+   338:19   warning  'avg' is not defined                        no-undef
+   338:38   warning  'average' is not defined                    no-undef
+   363:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   374:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   375:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   379:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   392:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   392:6    warning  'myInt' is not defined                      no-undef
+   394:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   417:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   424:4    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   425:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   425:6    warning  'myInt' is not defined                      no-undef
+   440:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   465:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   466:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   467:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   470:3    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   471:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   478:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   481:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   482:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   483:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   484:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   485:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   486:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   487:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   488:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   497:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   499:3    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   504:5    warning  'myInt' is not defined                      no-undef
+   521:2    warning  'myInt' is not defined                      no-undef
+   541:5    warning  'myInt' is not defined                      no-undef
+   561:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   565:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   571:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   572:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   592:2    warning  'myInt' is not defined                      no-undef
+   599:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   613:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   613:6    warning  'myInt' is not defined                      no-undef
+   632:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   633:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   634:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   637:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   638:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   642:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   646:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   647:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   659:5    warning  'myInt' is not defined                      no-undef
+   677:2    warning  'myInt' is not defined                      no-undef
+   697:5    warning  'myInt' is not defined                      no-undef
+   721:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   733:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   734:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   762:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   762:6    warning  'myInt' is not defined                      no-undef
+   764:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   767:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   785:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   785:6    warning  'myInt' is not defined                      no-undef
+   792:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   804:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   805:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   806:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   809:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   810:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   812:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   822:5    warning  'myInt' is not defined                      no-undef
+   838:2    warning  'myInt' is not defined                      no-undef
+   858:5    warning  'myInt' is not defined                      no-undef
+   873:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   882:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   883:1    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   885:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   888:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   889:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   890:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   894:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   895:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   896:3    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   897:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   898:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   899:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   901:2    warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+   967:10   warning  'stepstop' is defined but never used        no-unused-vars
+  1059:4    warning  'n2' is not defined                         no-undef
+  1060:18   warning  'n2' is not defined                         no-undef
+  1092:10   warning  'checkInference' is defined but never used  no-unused-vars
+  1095:5    warning  '$' is not defined                          no-undef
+  1112:3    warning  'str' is not defined                        no-undef
+  1116:3    warning  'str' is not defined                        no-undef
+  1123:7    warning  'average' is not defined                    no-undef
+  1123:23   warning  'average' is not defined                    no-undef
+  1125:92   warning  'str' is not defined                        no-undef
+  1125:155  warning  'str' is not defined                        no-undef
+  1125:173  warning  'average' is not defined                    no-undef
+  1129:92   warning  'str' is not defined                        no-undef
+  1129:155  warning  'str' is not defined                        no-undef
+  1129:173  warning  'average' is not defined                    no-undef
+  1134:7    warning  'average' is not defined                    no-undef
+  1134:23   warning  'average' is not defined                    no-undef
+  1136:92   warning  'str' is not defined                        no-undef
+  1136:155  warning  'str' is not defined                        no-undef
+  1136:173  warning  'average' is not defined                    no-undef
+  1140:92   warning  'str' is not defined                        no-undef
+  1140:155  warning  'str' is not defined                        no-undef
+  1140:173  warning  'average' is not defined                    no-undef
+  1143:3    warning  '$' is not defined                          no-undef
+
+✖ 605 problems (0 errors, 605 warnings)
+
